@@ -1,2 +1,2 @@
-# Gersel-s_Project
+# Gersel's_Project
 Analytics Portfolio 
